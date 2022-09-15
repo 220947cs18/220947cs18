@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @220947cs18
+- 👋 Hi, I’m @220947cs18 - Jamshid B
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on AU
 - 📫 How to reach me using my work mail - 220947@akfauniversity
 
 <!---
